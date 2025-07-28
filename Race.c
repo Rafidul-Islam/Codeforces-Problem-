@@ -34,4 +34,5 @@ int main()
     {
         results[i] ? printf("Yes\n") : printf("No\n");
     }
+    return 0;
 }
